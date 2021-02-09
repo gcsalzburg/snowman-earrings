@@ -23,8 +23,14 @@ void setup() {
 
 // the loop function runs over and over again forever
 void loop() {  
-	digitalWrite(LEFT_EYE, HIGH);
-	delay(500);
 	digitalWrite(LEFT_EYE, LOW);
+	digitalWrite(RIGHT_EYE, HIGH);
+	digitalWrite(MOUTH_INNER, LOW);
+	digitalWrite(MOUTH_OUTER, HIGH);
+	delay(500);
+	digitalWrite(LEFT_EYE, HIGH);
+	digitalWrite(RIGHT_EYE, LOW);
+	digitalWrite(MOUTH_INNER, HIGH);
+	digitalWrite(MOUTH_OUTER, LOW);
 	delay(500);
 }
