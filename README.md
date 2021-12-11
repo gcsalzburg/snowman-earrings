@@ -30,8 +30,8 @@ The nose LED is connected permanently to power supply.
 
    | What | Uno | ATtiny85 |
    | --- | --- | --- |
-   | 5V  | Vcc | x |
-   | Gnd | Gnd | x |
+   | 5V  | Vcc | Vcc |
+   | Gnd | Gnd | Gnd |
    | SCK | Pin 13 | Pin 2 |
    | MISO | Pin 13 | Pin 1 |
    | MOSI | Pin 13 | Pin 0 |
