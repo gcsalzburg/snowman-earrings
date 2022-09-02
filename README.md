@@ -2,7 +2,7 @@
 
 An experiment in using the ATtiny85 and ISP programming.
 
-![Earring in use](https://www.designedbycave.co.uk/snowman-earrings/images/earring.jpg)
+![Earring in use](https://play.interactionmagic.com/snowman-earrings/images/earring.jpg)
 
 ## Design
 
@@ -48,19 +48,19 @@ The nose LED is connected permanently to power supply.
 3. Now in `VSCode`, set COM port of Arduino Uno in PlatformIO project in `platformio.ini` and upload! If having problems, can also try using [Arduino IDE to upload](https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829).
 
 
-![ISP Programming with Arduino](https://www.designedbycave.co.uk/snowman-earrings/images/isp_programming.png)
+![ISP Programming with Arduino](http://play.interactionmagic.com/snowman-earrings/images/isp_programming.png)
 
-![ISP Programming with Arduino](https://www.designedbycave.co.uk/snowman-earrings/images/programming-setup.jpg)
+![ISP Programming with Arduino](http://play.interactionmagic.com/snowman-earrings/images/programming-setup.jpg)
 
 ## Board design
 
 A few views of the board, for reference:
 
 
-![Board front](https://www.designedbycave.co.uk/snowman-earrings/images/board-front.jpg)
+![Board front](http://play.interactionmagic.com/snowman-earrings/images/board-front.jpg)
 
-![Board rear](https://www.designedbycave.co.uk/snowman-earrings/images/board-back.jpg)
+![Board rear](http://play.interactionmagic.com/snowman-earrings/images/board-back.jpg)
 
-![Board schematic](https://www.designedbycave.co.uk/snowman-earrings/images/schematic.jpg)
+![Board schematic](http://play.interactionmagic.com/snowman-earrings/images/schematic.jpg)
 
-![Board PCB layout](https://www.designedbycave.co.uk/snowman-earrings/images/board-design.jpg)
+![Board PCB layout](http://play.interactionmagic.com/snowman-earrings/images/board-design.jpg)
